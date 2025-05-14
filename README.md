@@ -76,10 +76,8 @@ Figma
 
 ## OUTPUT:
 
+![WhatsApp Image 2025-05-14 at 14 39 26_a1eec6d2](https://github.com/user-attachments/assets/ad790a63-d1de-4b9b-b6a4-d6ba400dac61)
 
-
-
-![alt text](<WhatsApp Image 2025-05-14 at 14.39.26_e28b934e.jpg>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.     
