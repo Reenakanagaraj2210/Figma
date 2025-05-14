@@ -54,12 +54,32 @@ Figma
   <div style="width: 337px; height: 320px; left: 42px; top: 436px; position: absolute"><span style="color: black; font-size: 24px; font-family: Agdasima; font-weight: 400; word-wrap: break-word">Exciting Rewards for Top Performers<br/></span><span style="color: black; font-size: 24px; font-family: Agdasima; font-weight: 400; word-wrap: break-word"><br/></span><span style="color: black; font-size: 24px; font-family: Agdasima; font-weight: 400; word-wrap: break-word">Exclusive Pre-Placement Interview (PPI) Opportunity for outstanding candidates<br/></span><span style="color: black; font-size: 24px; font-family: Agdasima; font-weight: 400; word-wrap: break-word"><br/></span><span style="color: black; font-size: 24px; font-family: Agdasima; font-weight: 400; word-wrap: break-word">Mentorship & Career Guidance by Goldman Sachs experts·  Exciting Rewards for Top Performers</span></div>
 </div>
 
+<div style="width: 430px; height: 932px; position: relative; background: #42E8E0; overflow: hidden">
+  <img style="width: 354px; height: 72px; left: 38px; top: 50px; position: absolute" src="https://placehold.co/354x72" />
+  <img style="width: 162px; height: 162px; left: 134px; top: 177px; position: absolute" src="https://placehold.co/162x162" />
+  <div style="width: 274px; height: 94px; left: 78px; top: 394px; position: absolute; color: black; font-size: 32px; font-family: Inter; font-weight: 400; word-wrap: break-word">Goldman Sachs  Hackathon 2025</div>
+  <div style="width: 195px; height: 69px; left: 117px; top: 547px; position: absolute; background: #CB1414"></div>
+  <div style="width: 101px; height: 38px; left: 169px; top: 563px; position: absolute; color: black; font-size: 32px; font-family: Inter; font-weight: 400; word-wrap: break-word">LOGIN</div>
+  <div style="width: 100px; height: 100px; left: 59px; top: 653px; position: absolute"></div>
+  <div style="width: 246px; height: 68px; left: 92px; top: 695px; position: absolute; background: #CC1111"></div>
+  <div style="width: 153px; height: 30px; left: 138px; top: 714px; position: absolute; color: black; font-size: 32px; font-family: Inter; font-weight: 400; word-wrap: break-word">REGISTER</div>
+</div>
 
 
+<div style="width: 430px; height: 932px; position: relative; background: #61EBE0; overflow: hidden">
+  <div style="width: 247px; left: 91px; top: 129px; position: absolute; color: black; font-size: 24px; font-family: Aclonica; font-weight: 400; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">If You want to participate in the event please register now .<br/><br/>This is your opportunity to show off your talent in front of others.</div>
+  <div style="width: 247px; height: 99px; left: 91px; top: 597px; position: absolute; color: black; font-size: 64px; font-family: Aguafina Script; font-weight: 400; word-wrap: break-word">Thank   you</div>
+</div>
 ```
 
+
+
 ## OUTPUT:
-Screenshot 2025-05-11 065021.png
+
+
+
+
+![alt text](<WhatsApp Image 2025-05-14 at 14.39.26_e28b934e.jpg>)
 
 ## RESULT:
-The program to design, develop and deploy a web application for event registration is completed successfully.
+The program to design, develop and deploy a web application for event registration is completed successfully.     
